@@ -1,0 +1,3 @@
+# DuoShell
+
+Custom Python Shell
